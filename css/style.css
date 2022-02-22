@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 480px;
+    height: 200px;
+    /* margin: 0 auto; */
+}
+
+.one{
+    width: 22%;
+    display: flex;
+    align-items: center;
+}
+
+.container .one img{
+    width: 100%;
+    height:auto;
+}
+.container .bubt img{
+    width: 100%;
+    margin-top: 5px;
+}
+
+.two{
+width: 48%;
+    
+}
+.two .contact_two{
+display: flex;
+justify-content: space-around;
+}
+.contact{
+
+    margin-right: 15px;
+}
+.contact1{
+
+}
+
+.three{
+    height: 22%;
+}
+
+.four{
+    height: 105px;
+    width: 10px;
+    margin-left: 20px;
+    padding-top: 1px;
+}
+
+
+.container .three {
+    height: 105px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-left: solid 2px #675e90;
+    padding-left: 10px;
+    
+}
+
+
+.container .four img{
+    width: auto;
+    height: 100%;
+}
+.container .three img{
+
+    height: auto;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #00C89A;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+h4 {
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: #282B7F;
+    font-size: 20px;
+    padding: 5px 0;
+}
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #675E90;
+    font-size: 12px;
+}
+
+.container .main {
+    height: 115px;
+    border-bottom: 3px dashed #292c7f;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
