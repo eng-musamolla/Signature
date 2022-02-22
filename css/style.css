@@ -27,12 +27,12 @@ a{
 }
 
 .two{
-width: 48%;
+width: 50%;
     
 }
 .two .contact_two{
 display: flex;
-justify-content: space-around;
+justify-content: space-between;
 }
 .contact{
 
