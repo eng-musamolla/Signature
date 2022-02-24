@@ -2,9 +2,7 @@
     margin: 0;
     padding: 0;
 }
-a{
-    text-decoration: none;
-}
+
 .container{
     min-height: 100vh;
     display: flex;
@@ -80,7 +78,7 @@ h3 {
 }
 
 h4 {
-    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Baloo Bhaijaan', cursive;
     font-weight: 600;
     color: #282B7F;
     font-size: 20px;
@@ -93,6 +91,9 @@ h5 {
     font-size: 11px;
     line-height: 15px;
 }
+a{
+    text-decoration: none; !important
+    }
 
 .container .main {
     height: 100px;
