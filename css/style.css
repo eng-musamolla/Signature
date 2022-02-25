@@ -32,7 +32,7 @@
 }
 .two{
     width: 215px;
-    margin-left: 20px;
+    margin-left: 25px;
     
 }
 .two .contact_two{
@@ -59,7 +59,7 @@
     height: 99px;
     border-left: double #675e90;
     padding-left: 10px;
-    margin-left: 10px;
+    margin-left: 5px;
     
 }
 
@@ -89,8 +89,12 @@ h4 {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     color: #675E90;
-    font-size: 11px;
+    font-size: 12px;
     line-height: 15px;
+}
+.info a{
+    color: #675E90;
+    text-decoration: none;
 }
 .email{
     display:inline-block;
