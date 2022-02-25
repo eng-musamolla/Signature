@@ -24,6 +24,7 @@
     margin-top: 7px;
     
 }
+
 .one{
     width: 100px;
     height: 100px;
@@ -90,6 +91,11 @@ h5 {
     color: #675E90;
     font-size: 11px;
     line-height: 15px;
+}
+.email{
+    display:inline-block;
+    background-color: #00C89A;
+    
 }
 a{
     text-decoration: none; !important
