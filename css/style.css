@@ -44,8 +44,10 @@
 }
 
 .three{
-    height: 100px;
+    display: flex;
     width: 100px;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .four{
@@ -67,7 +69,7 @@
     width: 100%;
 }
 .icon{
-    height: 33px;
+    /* height: 33px; */
 }
 
 h3 {
@@ -101,7 +103,7 @@ h4 {
     
 }
 a{
-    text-decoration: none; !important
+    text-decoration: none !important;
     }
 
 .container .main {
