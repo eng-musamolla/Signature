@@ -43,13 +43,14 @@
     margin-left: 15px;
 }
 
+
 .three{
-    display: flex;
     width: 100px;
-    flex-direction: column;
-    justify-content: space-between;
 }
 
+ .icon{
+    margin: 6px 0px ;
+}
 .four{
     height: 100px;
     width: 10px;
